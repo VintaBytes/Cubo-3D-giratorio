@@ -7,7 +7,7 @@ Este script utiliza las librerías `pygame` y  `numpy`  para renderizar una proy
 <span><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></span>
 
 ## Resultado
-<img src="https://github.com/user-attachments/assets/3b66dfad-38f1-4421-9e88-afa9b2c3f18d" width="320px">
+<img src="https://github.com/VintaBytes/Cubo-3D-giratorio/blob/main/captura.png?raw=true" width="320px">
 
 ---
 
